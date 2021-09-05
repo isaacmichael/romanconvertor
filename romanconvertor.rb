@@ -73,6 +73,8 @@ def toRoman(arabicNumber)
     end
   return roman
 
+  #all tests passing except the Sanity test. Whoops.
+
 
 
 end
